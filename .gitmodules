@@ -1,0 +1,6 @@
+[submodule "Getting_and_cleaning_data_project"]
+	path = Getting_and_cleaning_data_project
+	url = https://github.com/fachiappetta/Getting_and_cleaning_data_project.git
+[submodule "household_energy_consumption"]
+	path = household_energy_consumption
+	url = https://github.com/fachiappetta/household_energy_consumption.git
